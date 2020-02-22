@@ -1,0 +1,83 @@
+body{
+  font-family: Helvetica;
+  font-size:14pt;
+  background-color: #cde2f0;
+  margin: 0;
+}
+
+header{
+  background-color: #4f4543;
+  color: #ffffff;
+  padding-top: 3%;
+  height: 5%;
+  padding-bottom: 4%;
+  border-bottom: #295b33 3px solid;
+}
+
+header a{
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+header ul{
+  font-family: Arial;
+  display: inline;
+  text-align: right;
+}
+
+header li{
+  float: right;
+  margin: 2%;
+}
+
+h1{
+  margin-left: 100px;
+  color: #d8d8d9;
+}
+
+.image{
+  color: #b63535;
+  text-align: center;
+  margin-right: 20%;
+}
+
+body img{
+  float: left;
+  margin-left: 5%;
+}
+
+body p{
+  color: #b63535;
+  margin-left: 50%;
+}
+
+.gerant{
+  color: #b63535;
+  text-align: center;
+  margin-right: 20%;
+}
+
+.imageDeux{
+  width: 28%;
+  height: 32%;
+}
+
+.pGerant{
+  margin-top: 10%;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+.imageLogo{
+  width: 40%;
+}
+
+.banner{
+
+}
+
+.liens{
+
+}
+
